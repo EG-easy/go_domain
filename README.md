@@ -25,6 +25,7 @@ sh build.sh
 
 --------------------------------------------------------------------------------
 
+# separate usage
 You can also use the tools separately.
 ```ruby:~
 cd available

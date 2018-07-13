@@ -23,4 +23,15 @@ sh build.sh
 4. Now you can put any English word, and that tools show you which domain is available
 
 
+--------------------------------------------------------------------------------
+
+You can also use the tools separately.
+```ruby:~
+cd available
+go build -o available
+./available
+```
+You can put domain like google.com, then the tool judge the domain is available or not.
+
+
 
